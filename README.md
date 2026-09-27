@@ -14,7 +14,7 @@ The application provides an interactive graphical interface for experimenting wi
 
 ### Julia Set
 
-![Julia Set](docs/images/julia.png)
+![Julia Set](docs/images/julia_transform.png)
 
 ## Features
 
