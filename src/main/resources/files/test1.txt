@@ -1,0 +1,5 @@
+Julia2D      # Type of transformation
+-1.6, -1.0    # Lower Left
+1.6, 1.0    # Upper Right
+-0.2673979698735711, -0.8566440681687149, 1    # Real and imaginary parts of the constant c
+-0.2673979698735711, -0.8566440681687149, -1    # Real and imaginary parts of the constant c

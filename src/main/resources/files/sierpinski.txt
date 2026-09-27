@@ -1,0 +1,6 @@
+Affine2D     # Type of transformation
+0.0, 0.0    # Lower Left
+1.0, 1.0    # Upper Right
+0.5, 0.0, 0.0, 0.5, 0.0, 0.0     # 1st Affine transformation
+0.5, 0.0, 0.0, 0.5, 0.25, 0.5     # 2nd Affine transformation
+0.5, 0.0, 0.0, 0.5, 0.5, 0.0     # 3rd Affine transformation
